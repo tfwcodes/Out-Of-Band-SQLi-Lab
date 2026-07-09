@@ -1,15 +1,9 @@
 ### Solving the lab
 
-<li> └─$ ./interactsh-client 
 
-    _       __                       __       __  
-   (_)___  / /____  _________ ______/ /______/ /_ 
-  / / __ \/ __/ _ \/ ___/ __ '/ ___/ __/ ___/ __ \
- / / / / / /_/  __/ /  / /_/ / /__/ /_(__  ) / / /
-/_/_/ /_/\__/\___/_/   \__,_/\___/\__/____/_/ /_/
 
-                projectdiscovery.io
-
+<li> We firstly start our interact sh client: 
+    └─$ ./interactsh-client 
 [INF] Current interactsh version 1.3.1 (latest)
 
 [INF] Listing 1 payload for OOB Testing
