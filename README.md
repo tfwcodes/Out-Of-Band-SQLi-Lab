@@ -21,3 +21,7 @@
 [d81et74940nk1fe18vs0yc1fzu3jfzkji] Received DNS interaction (AAAA) From 62.217.245.71 at 2026-05-12 09:26:13
 [d81et74940nk1fe18vs0yc1fzu3jfzkji] Received HTTP interaction From 109.166.132.195 at 2026-05-12 09:26:15
 </li>
+
+<li>
+  This request being made to our own endpoint, proves that this app is vulnerable to OOB SQLi.
+</li>
