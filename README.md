@@ -13,3 +13,5 @@
 <li> This is our payload for the oob client: curl -H "User-Agent: trigger_callback" "http://127.0.0.1:5000/vulnerable?input=trigger_callback"
 
 <li> After we inject our payload, we get a response in the interactsh-client:
+
+</li>
